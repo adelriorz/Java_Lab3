@@ -2,4 +2,4 @@
 
 Expressing class diagram into code with testing.
 
-Please check diagram in root.
+![Alt text](JavaClasses and Objects 2022-10-11 10-56-06.png?raw=true "Class diagram")
